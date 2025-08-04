@@ -11305,3 +11305,28 @@ Stack trace:
 [03-Aug-2025 18:35:43 Europe/Berlin] PHP Warning:  include(): Failed opening '../../includes/header.php' for inclusion (include_path='D:\xampp\php\PEAR') in C:\Users\shari\OneDrive\Desktop\Main Website\NirupaniPathologyLaboratory-main\NPL\pages\user\admin_dashboard.php on line 16
 [03-Aug-2025 20:17:52 Europe/Berlin] PHP Warning:  include(../../includes/header.php): Failed to open stream: No such file or directory in C:\Users\shari\OneDrive\Desktop\Main Website\NirupaniPathologyLaboratory-main\NPL\pages\user\admin_dashboard.php on line 16
 [03-Aug-2025 20:17:52 Europe/Berlin] PHP Warning:  include(): Failed opening '../../includes/header.php' for inclusion (include_path='D:\xampp\php\PEAR') in C:\Users\shari\OneDrive\Desktop\Main Website\NirupaniPathologyLaboratory-main\NPL\pages\user\admin_dashboard.php on line 16
+[03-Aug-2025 20:33:50 Europe/Berlin] PHP Warning:  include(../../includes/header.php): Failed to open stream: No such file or directory in C:\Users\shari\OneDrive\Desktop\Main Website\Open to Github\Diagnostic-System\NPL\pages\user\admin_dashboard.php on line 9
+[03-Aug-2025 20:33:50 Europe/Berlin] PHP Warning:  include(): Failed opening '../../includes/header.php' for inclusion (include_path='D:\xampp\php\PEAR') in C:\Users\shari\OneDrive\Desktop\Main Website\Open to Github\Diagnostic-System\NPL\pages\user\admin_dashboard.php on line 9
+[03-Aug-2025 20:35:05 Europe/Berlin] Report date range: 2025-07-04 to 2025-08-03
+[03-Aug-2025 20:35:05 Europe/Berlin] Financial summary: Array
+(
+    [total_invoices] => 0
+    [total_revenue] => 0.00
+    [total_paid] => 0.00
+    [total_due] => 0.00
+    [total_discount] => 0.00
+)
+
+[03-Aug-2025 20:35:05 Europe/Berlin] Top tests: Array
+(
+)
+
+[03-Aug-2025 20:35:05 Europe/Berlin] Top consumables: Array
+(
+)
+
+[03-Aug-2025 20:35:05 Europe/Berlin] Total invoices in database: 0
+[03-Aug-2025 20:36:30 Europe/Berlin] PHP Warning:  include(../../includes/header.php): Failed to open stream: No such file or directory in C:\Users\shari\OneDrive\Desktop\Main Website\Open to Github\Diagnostic-System\NPL\pages\user\admin_dashboard.php on line 16
+[03-Aug-2025 20:36:30 Europe/Berlin] PHP Warning:  include(): Failed opening '../../includes/header.php' for inclusion (include_path='D:\xampp\php\PEAR') in C:\Users\shari\OneDrive\Desktop\Main Website\Open to Github\Diagnostic-System\NPL\pages\user\admin_dashboard.php on line 16
+[03-Aug-2025 20:37:02 Europe/Berlin] PHP Warning:  include(../../includes/header.php): Failed to open stream: No such file or directory in C:\Users\shari\OneDrive\Desktop\Main Website\Open to Github\Diagnostic-System\NPL\pages\user\admin_dashboard.php on line 9
+[03-Aug-2025 20:37:02 Europe/Berlin] PHP Warning:  include(): Failed opening '../../includes/header.php' for inclusion (include_path='D:\xampp\php\PEAR') in C:\Users\shari\OneDrive\Desktop\Main Website\Open to Github\Diagnostic-System\NPL\pages\user\admin_dashboard.php on line 9
